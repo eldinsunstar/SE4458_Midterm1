@@ -1,5 +1,7 @@
 # SE4458_Midterm1
 
+Project link : https://github.com/eldinsunstar/SE4458_Midterm1
+
 Database Model is below
 
 using Microsoft.EntityFrameworkCore;
