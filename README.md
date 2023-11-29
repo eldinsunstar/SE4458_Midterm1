@@ -2,6 +2,8 @@
 
 Project link : https://github.com/eldinsunstar/SE4458_Midterm1
 
+Presentation video : https://youtu.be/4ioMp-aGP_U
+
 Database Model is below
 
 using Microsoft.EntityFrameworkCore;
